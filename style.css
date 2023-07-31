@@ -8,11 +8,11 @@
     width: 100%;
     min-width: 100%;
     background: linear-gradient(135deg,#BE5A83,#E06469);
-    padding: 100px;
+    padding: 150px;
 }
 .todo-app{
     width :100%;
-    max-width: 840px;
+    max-width: 540px;
     background: #FFF;
     margin: 100px auto 20px;
     padding : 40px 30px 70px; 
